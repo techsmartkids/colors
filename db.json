@@ -1,5 +1,5 @@
 {
-  "acid green": {
+  "acid-green": {
     "hex": "8ffe09",
     "rgb": [143, 254, 9]
   },
@@ -11,7 +11,7 @@
     "hex": "feb308",
     "rgb": [254, 179, 8]
   },
-  "apple green": {
+  "apple-green": {
     "hex": "76cd26",
     "rgb": [118, 205, 38]
   },
@@ -23,15 +23,15 @@
     "hex": "13eac9",
     "rgb": [19, 234, 201]
   },
-  "aqua blue": {
+  "aqua-blue": {
     "hex": "02d8e9",
     "rgb": [2, 216, 233]
   },
-  "aqua green": {
+  "aqua-green": {
     "hex": "12e193",
     "rgb": [18, 225, 147]
   },
-  "aqua marine": {
+  "aqua-marine": {
     "hex": "2ee8bb",
     "rgb": [46, 232, 187]
   },
@@ -39,7 +39,7 @@
     "hex": "04d8b2",
     "rgb": [4, 216, 178]
   },
-  "army green": {
+  "army-green": {
     "hex": "4b5d16",
     "rgb": [75, 93, 22]
   },
@@ -59,19 +59,19 @@
     "hex": "069af3",
     "rgb": [6, 154, 243]
   },
-  "baby blue": {
+  "baby-blue": {
     "hex": "a2cffe",
     "rgb": [162, 207, 254]
   },
-  "baby pink": {
+  "baby-pink": {
     "hex": "ffb7ce",
     "rgb": [255, 183, 206]
   },
-  "barbie pink": {
+  "barbie-pink": {
     "hex": "fe46a5",
     "rgb": [254, 70, 165]
   },
-  "barney purple": {
+  "barney-purple": {
     "hex": "a00498",
     "rgb": [160, 4, 152]
   },
@@ -83,7 +83,7 @@
     "hex": "000000",
     "rgb": [0, 0, 0]
   },
-  "blood red": {
+  "blood-red": {
     "hex": "980002",
     "rgb": [152, 0, 2]
   },
@@ -91,19 +91,19 @@
     "hex": "0343df",
     "rgb": [3, 67, 223]
   },
-  "blue green": {
+  "blue-green": {
     "hex": "137e6d",
     "rgb": [19, 126, 109]
   },
-  "blue grey": {
+  "blue-grey": {
     "hex": "607c8e",
     "rgb": [96, 124, 142]
   },
-  "blue purple": {
+  "blue-purple": {
     "hex": "5729ce",
     "rgb": [87, 41, 206]
   },
-  "blue violet": {
+  "blue-violet": {
     "hex": "5d06e9",
     "rgb": [93, 6, 233]
   },
@@ -111,7 +111,7 @@
     "hex": "017a79",
     "rgb": [1, 122, 121]
   },
-  "bluey purple": {
+  "bluey-purple": {
     "hex": "6241c7",
     "rgb": [98, 65, 199]
   },
@@ -119,15 +119,15 @@
     "hex": "2976bb",
     "rgb": [41, 118, 187]
   },
-  "bluish green": {
+  "bluish-green": {
     "hex": "10a674",
     "rgb": [16, 166, 116]
   },
-  "bluish grey": {
+  "bluish-grey": {
     "hex": "748b97",
     "rgb": [116, 139, 151]
   },
-  "bluish purple": {
+  "bluish-purple": {
     "hex": "703be7",
     "rgb": [112, 59, 231]
   },
@@ -143,7 +143,7 @@
     "hex": "7b002c",
     "rgb": [123, 0, 44]
   },
-  "bottle green": {
+  "bottle-green": {
     "hex": "044a05",
     "rgb": [4, 74, 5]
   },
@@ -151,23 +151,23 @@
     "hex": "a03623",
     "rgb": [160, 54, 35]
   },
-  "brick red": {
+  "brick-red": {
     "hex": "8f1402",
     "rgb": [143, 20, 2]
   },
-  "bright aqua": {
+  "bright-aqua": {
     "hex": "0bf9ea",
     "rgb": [11, 249, 234]
   },
-  "bright blue": {
+  "bright-blue": {
     "hex": "0165fc",
     "rgb": [1, 101, 252]
   },
-  "bright green": {
+  "bright-green": {
     "hex": "01ff07",
     "rgb": [1, 255, 7]
   },
-  "bright lavender": {
+  "bright-lavender": {
     "hex": "c760ff",
     "rgb": [199, 96, 255]
   },
@@ -179,23 +179,23 @@
     "hex": "65fe08",
     "rgb": [101, 254, 8]
   },
-  "bright magenta": {
+  "bright-magenta": {
     "hex": "ff08e8",
     "rgb": [255, 8, 232]
   },
-  "bright orange": {
+  "bright-orange": {
     "hex": "ff5b00",
     "rgb": [255, 91, 0]
   },
-  "bright pink": {
+  "bright-pink": {
     "hex": "fe01b1",
     "rgb": [254, 1, 177]
   },
-  "bright purple": {
+  "bright-purple": {
     "hex": "be03fd",
     "rgb": [190, 3, 253]
   },
-  "bright red": {
+  "bright-red": {
     "hex": "ff000d",
     "rgb": [255, 0, 13]
   },
@@ -203,19 +203,19 @@
     "hex": "02ccfe",
     "rgb": [2, 204, 254]
   },
-  "bright teal": {
+  "bright-teal": {
     "hex": "01f9c6",
     "rgb": [1, 249, 198]
   },
-  "bright turquoise": {
+  "bright-turquoise": {
     "hex": "0ffef9",
     "rgb": [15, 254, 249]
   },
-  "bright violet": {
+  "bright-violet": {
     "hex": "ad0afd",
     "rgb": [173, 10, 253]
   },
-  "bright yellow": {
+  "bright-yellow": {
     "hex": "fffd01",
     "rgb": [255, 253, 1]
   },
@@ -231,11 +231,11 @@
     "hex": "653700",
     "rgb": [101, 55, 0]
   },
-  "brown green": {
+  "brown-green": {
     "hex": "706c11",
     "rgb": [112, 108, 17]
   },
-  "brown orange": {
+  "brown-orange": {
     "hex": "b96902",
     "rgb": [185, 105, 2]
   },
@@ -243,27 +243,27 @@
     "hex": "9c6d57",
     "rgb": [156, 109, 87]
   },
-  "brownish green": {
+  "brownish-green": {
     "hex": "6a6e09",
     "rgb": [106, 110, 9]
   },
-  "brownish grey": {
+  "brownish-grey": {
     "hex": "86775f",
     "rgb": [134, 119, 95]
   },
-  "brownish orange": {
+  "brownish-orange": {
     "hex": "cb7723",
     "rgb": [203, 119, 35]
   },
-  "brownish red": {
+  "brownish-red": {
     "hex": "9e3623",
     "rgb": [158, 54, 35]
   },
-  "brownish yellow": {
+  "brownish-yellow": {
     "hex": "c9b003",
     "rgb": [201, 176, 3]
   },
-  "bubblegum pink": {
+  "bubblegum-pink": {
     "hex": "fe83cc",
     "rgb": [254, 131, 204]
   },
@@ -271,27 +271,27 @@
     "hex": "610023",
     "rgb": [97, 0, 35]
   },
-  "burnt orange": {
+  "burnt-orange": {
     "hex": "c04e01",
     "rgb": [192, 78, 1]
   },
-  "burnt red": {
+  "burnt-red": {
     "hex": "9f2305",
     "rgb": [159, 35, 5]
   },
-  "burnt sienna": {
+  "burnt-sienna": {
     "hex": "b04e0f",
     "rgb": [176, 78, 15]
   },
-  "burnt umber": {
+  "burnt-umber": {
     "hex": "a0450e",
     "rgb": [160, 69, 14]
   },
-  "burnt yellow": {
+  "burnt-yellow": {
     "hex": "d5ab09",
     "rgb": [213, 171, 9]
   },
-  "cadet blue": {
+  "cadet-blue": {
     "hex": "4e7496",
     "rgb": [78, 116, 150]
   },
@@ -299,15 +299,15 @@
     "hex": "c69f59",
     "rgb": [198, 159, 89]
   },
-  "camo green": {
+  "camo-green": {
     "hex": "526525",
     "rgb": [82, 101, 37]
   },
-  "canary yellow": {
+  "canary-yellow": {
     "hex": "fffe40",
     "rgb": [255, 254, 64]
   },
-  "carolina blue": {
+  "carolina-blue": {
     "hex": "8ab8fe",
     "rgb": [138, 184, 254]
   },
@@ -327,7 +327,7 @@
     "hex": "0485d1",
     "rgb": [4, 133, 209]
   },
-  "cerulean blue": {
+  "cerulean-blue": {
     "hex": "056eee",
     "rgb": [5, 110, 238]
   },
@@ -339,7 +339,7 @@
     "hex": "c1f80a",
     "rgb": [193, 248, 10]
   },
-  "cherry red": {
+  "cherry-red": {
     "hex": "f7022a",
     "rgb": [247, 2, 42]
   },
@@ -347,7 +347,7 @@
     "hex": "3d1c02",
     "rgb": [61, 28, 2]
   },
-  "chocolate brown": {
+  "chocolate-brown": {
     "hex": "411900",
     "rgb": [65, 25, 0]
   },
@@ -359,7 +359,7 @@
     "hex": "1e488f",
     "rgb": [30, 72, 143]
   },
-  "cobalt blue": {
+  "cobalt-blue": {
     "hex": "030aa7",
     "rgb": [3, 10, 167]
   },
@@ -379,7 +379,7 @@
     "hex": "6a79f7",
     "rgb": [106, 121, 247]
   },
-  "cornflower blue": {
+  "cornflower-blue": {
     "hex": "5170d7",
     "rgb": [81, 112, 215]
   },
@@ -399,15 +399,15 @@
     "hex": "00ffff",
     "rgb": [0, 255, 255]
   },
-  "dark aqua": {
+  "dark-aqua": {
     "hex": "05696b",
     "rgb": [5, 105, 107]
   },
-  "dark beige": {
+  "dark-beige": {
     "hex": "ac9362",
     "rgb": [172, 147, 98]
   },
-  "dark blue": {
+  "dark-blue": {
     "hex": "00035b",
     "rgb": [0, 3, 91]
   },
@@ -415,11 +415,11 @@
     "hex": "005249",
     "rgb": [0, 82, 73]
   },
-  "dark brown": {
+  "dark-brown": {
     "hex": "341c02",
     "rgb": [52, 28, 2]
   },
-  "dark cyan": {
+  "dark-cyan": {
     "hex": "0a888a",
     "rgb": [10, 136, 138]
   },
@@ -427,31 +427,31 @@
     "hex": "002d04",
     "rgb": [0, 45, 4]
   },
-  "dark gold": {
+  "dark-gold": {
     "hex": "b59410",
     "rgb": [181, 148, 16]
   },
-  "dark green": {
+  "dark-green": {
     "hex": "033500",
     "rgb": [3, 53, 0]
   },
-  "dark grey": {
+  "dark-grey": {
     "hex": "363737",
     "rgb": [54, 55, 55]
   },
-  "dark khaki": {
+  "dark-khaki": {
     "hex": "9b8f55",
     "rgb": [155, 143, 85]
   },
-  "dark lavender": {
+  "dark-lavender": {
     "hex": "856798",
     "rgb": [133, 103, 152]
   },
-  "dark lilac": {
+  "dark-lilac": {
     "hex": "9c6da5",
     "rgb": [156, 109, 165]
   },
-  "dark lime": {
+  "dark-lime": {
     "hex": "84b701",
     "rgb": [132, 183, 1]
   },
@@ -459,23 +459,23 @@
     "hex": "7ebd01",
     "rgb": [126, 189, 1]
   },
-  "dark magenta": {
+  "dark-magenta": {
     "hex": "960056",
     "rgb": [150, 0, 86]
   },
-  "dark maroon": {
+  "dark-maroon": {
     "hex": "3c0008",
     "rgb": [60, 0, 8]
   },
-  "dark mauve": {
+  "dark-mauve": {
     "hex": "874c62",
     "rgb": [135, 76, 98]
   },
-  "dark mustard": {
+  "dark-mustard": {
     "hex": "a88905",
     "rgb": [168, 137, 5]
   },
-  "dark olive": {
+  "dark-olive": {
     "hex": "373e02",
     "rgb": [55, 62, 2]
   },
@@ -483,35 +483,35 @@
     "hex": "3c4d03",
     "rgb": [60, 77, 3]
   },
-  "dark orange": {
+  "dark-orange": {
     "hex": "c65102",
     "rgb": [198, 81, 2]
   },
-  "dark peach": {
+  "dark-peach": {
     "hex": "de7e5d",
     "rgb": [222, 126, 93]
   },
-  "dark periwinkle": {
+  "dark-periwinkle": {
     "hex": "665fd1",
     "rgb": [102, 95, 209]
   },
-  "dark pink": {
+  "dark-pink": {
     "hex": "cb416b",
     "rgb": [203, 65, 107]
   },
-  "dark purple": {
+  "dark-purple": {
     "hex": "35063e",
     "rgb": [53, 6, 62]
   },
-  "dark red": {
+  "dark-red": {
     "hex": "840000",
     "rgb": [132, 0, 0]
   },
-  "dark rose": {
+  "dark-rose": {
     "hex": "b5485d",
     "rgb": [181, 72, 93]
   },
-  "dark salmon": {
+  "dark-salmon": {
     "hex": "c85a53",
     "rgb": [200, 90, 83]
   },
@@ -523,51 +523,51 @@
     "hex": "448ee4",
     "rgb": [68, 142, 228]
   },
-  "dark tan": {
+  "dark-tan": {
     "hex": "af884a",
     "rgb": [175, 136, 74]
   },
-  "dark teal": {
+  "dark-teal": {
     "hex": "014d4e",
     "rgb": [1, 77, 78]
   },
-  "dark turquoise": {
+  "dark-turquoise": {
     "hex": "045c5a",
     "rgb": [4, 92, 90]
   },
-  "dark violet": {
+  "dark-violet": {
     "hex": "34013f",
     "rgb": [52, 1, 63]
   },
-  "dark yellow": {
+  "dark-yellow": {
     "hex": "d5b60a",
     "rgb": [213, 182, 10]
   },
-  "darkish blue": {
+  "darkish-blue": {
     "hex": "014182",
     "rgb": [1, 65, 130]
   },
-  "darkish green": {
+  "darkish-green": {
     "hex": "287c37",
     "rgb": [40, 124, 55]
   },
-  "deep blue": {
+  "deep-blue": {
     "hex": "040273",
     "rgb": [4, 2, 115]
   },
-  "deep green": {
+  "deep-green": {
     "hex": "02590f",
     "rgb": [2, 89, 15]
   },
-  "deep pink": {
+  "deep-pink": {
     "hex": "cb0162",
     "rgb": [203, 1, 98]
   },
-  "deep purple": {
+  "deep-purple": {
     "hex": "36013f",
     "rgb": [54, 1, 63]
   },
-  "deep red": {
+  "deep-red": {
     "hex": "9a0200",
     "rgb": [154, 2, 0]
   },
@@ -579,7 +579,7 @@
     "hex": "3b638c",
     "rgb": [59, 99, 140]
   },
-  "denim blue": {
+  "denim-blue": {
     "hex": "3b5b92",
     "rgb": [59, 91, 146]
   },
@@ -587,83 +587,83 @@
     "hex": "8a6e45",
     "rgb": [138, 110, 69]
   },
-  "dirt brown": {
+  "dirt-brown": {
     "hex": "836539",
     "rgb": [131, 101, 57]
   },
-  "dirty green": {
+  "dirty-green": {
     "hex": "667e2c",
     "rgb": [102, 126, 44]
   },
-  "dirty pink": {
+  "dirty-pink": {
     "hex": "ca7b80",
     "rgb": [202, 123, 128]
   },
-  "dirty yellow": {
+  "dirty-yellow": {
     "hex": "cdc50a",
     "rgb": [205, 197, 10]
   },
-  "drab green": {
+  "drab-green": {
     "hex": "749551",
     "rgb": [116, 149, 81]
   },
-  "dull blue": {
+  "dull-blue": {
     "hex": "49759c",
     "rgb": [73, 117, 156]
   },
-  "dull green": {
+  "dull-green": {
     "hex": "74a662",
     "rgb": [116, 166, 98]
   },
-  "dull orange": {
+  "dull-orange": {
     "hex": "d8863b",
     "rgb": [216, 134, 59]
   },
-  "dull pink": {
+  "dull-pink": {
     "hex": "d5869d",
     "rgb": [213, 134, 157]
   },
-  "dull purple": {
+  "dull-purple": {
     "hex": "84597e",
     "rgb": [132, 89, 126]
   },
-  "dull red": {
+  "dull-red": {
     "hex": "bb3f3f",
     "rgb": [187, 63, 63]
   },
-  "dull yellow": {
+  "dull-yellow": {
     "hex": "eedc5b",
     "rgb": [238, 220, 91]
   },
-  "dusky pink": {
+  "dusky-pink": {
     "hex": "cc7a8b",
     "rgb": [204, 122, 139]
   },
-  "dusky rose": {
+  "dusky-rose": {
     "hex": "ba6873",
     "rgb": [186, 104, 115]
   },
-  "dusty blue": {
+  "dusty-blue": {
     "hex": "5a86ad",
     "rgb": [90, 134, 173]
   },
-  "dusty green": {
+  "dusty-green": {
     "hex": "76a973",
     "rgb": [118, 169, 115]
   },
-  "dusty pink": {
+  "dusty-pink": {
     "hex": "d58a94",
     "rgb": [213, 138, 148]
   },
-  "dusty purple": {
+  "dusty-purple": {
     "hex": "825f87",
     "rgb": [130, 95, 135]
   },
-  "dusty rose": {
+  "dusty-rose": {
     "hex": "c0737a",
     "rgb": [192, 115, 122]
   },
-  "easter green": {
+  "easter-green": {
     "hex": "8cfd7e",
     "rgb": [140, 253, 126]
   },
@@ -679,15 +679,15 @@
     "hex": "ffffd4",
     "rgb": [255, 255, 212]
   },
-  "electric blue": {
+  "electric-blue": {
     "hex": "0652ff",
     "rgb": [6, 82, 255]
   },
-  "electric green": {
+  "electric-green": {
     "hex": "21fc0d",
     "rgb": [33, 252, 13]
   },
-  "electric purple": {
+  "electric-purple": {
     "hex": "aa23ff",
     "rgb": [170, 35, 255]
   },
@@ -695,7 +695,7 @@
     "hex": "01a049",
     "rgb": [1, 160, 73]
   },
-  "emerald green": {
+  "emerald-green": {
     "hex": "028f1e",
     "rgb": [2, 143, 30]
   },
@@ -703,23 +703,23 @@
     "hex": "05472a",
     "rgb": [5, 71, 42]
   },
-  "faded blue": {
+  "faded-blue": {
     "hex": "658cbb",
     "rgb": [101, 140, 187]
   },
-  "faded green": {
+  "faded-green": {
     "hex": "7bb274",
     "rgb": [123, 178, 116]
   },
-  "faded pink": {
+  "faded-pink": {
     "hex": "de9dac",
     "rgb": [222, 157, 172]
   },
-  "faded purple": {
+  "faded-purple": {
     "hex": "916e99",
     "rgb": [145, 110, 153]
   },
-  "faded red": {
+  "faded-red": {
     "hex": "d3494e",
     "rgb": [211, 73, 78]
   },
@@ -727,7 +727,7 @@
     "hex": "fe0002",
     "rgb": [254, 0, 2]
   },
-  "fluorescent green": {
+  "fluorescent-green": {
     "hex": "08ff08",
     "rgb": [8, 255, 8]
   },
@@ -735,11 +735,11 @@
     "hex": "0b5509",
     "rgb": [11, 85, 9]
   },
-  "forest green": {
+  "forest-green": {
     "hex": "06470c",
     "rgb": [6, 71, 12]
   },
-  "forrest green": {
+  "forrest-green": {
     "hex": "154406",
     "rgb": [21, 68, 6]
   },
@@ -751,11 +751,11 @@
     "hex": "dbb40c",
     "rgb": [219, 180, 12]
   },
-  "golden brown": {
+  "golden-brown": {
     "hex": "b27a01",
     "rgb": [178, 122, 1]
   },
-  "golden yellow": {
+  "golden-yellow": {
     "hex": "fec615",
     "rgb": [254, 198, 21]
   },
@@ -771,7 +771,7 @@
     "hex": "5cac2d",
     "rgb": [92, 172, 45]
   },
-  "grass green": {
+  "grass-green": {
     "hex": "3f9b0b",
     "rgb": [63, 155, 11]
   },
@@ -779,19 +779,19 @@
     "hex": "15b01a",
     "rgb": [21, 176, 26]
   },
-  "green blue": {
+  "green-blue": {
     "hex": "06b48b",
     "rgb": [6, 180, 139]
   },
-  "green brown": {
+  "green-brown": {
     "hex": "544e03",
     "rgb": [84, 78, 3]
   },
-  "green grey": {
+  "green-grey": {
     "hex": "77926f",
     "rgb": [119, 146, 111]
   },
-  "green yellow": {
+  "green-yellow": {
     "hex": "c9ff27",
     "rgb": [201, 255, 39]
   },
@@ -799,19 +799,19 @@
     "hex": "40a368",
     "rgb": [64, 163, 104]
   },
-  "greenish blue": {
+  "greenish-blue": {
     "hex": "0b8b87",
     "rgb": [11, 139, 135]
   },
-  "greenish brown": {
+  "greenish-brown": {
     "hex": "696112",
     "rgb": [105, 97, 18]
   },
-  "greenish grey": {
+  "greenish-grey": {
     "hex": "96ae8d",
     "rgb": [150, 174, 141]
   },
-  "greenish yellow": {
+  "greenish-yellow": {
     "hex": "cdfd02",
     "rgb": [205, 253, 2]
   },
@@ -819,59 +819,59 @@
     "hex": "929591",
     "rgb": [146, 149, 145]
   },
-  "grey blue": {
+  "grey-blue": {
     "hex": "6b8ba4",
     "rgb": [107, 139, 164]
   },
-  "grey brown": {
+  "grey-brown": {
     "hex": "7f7053",
     "rgb": [127, 112, 83]
   },
-  "grey green": {
+  "grey-green": {
     "hex": "789b73",
     "rgb": [120, 155, 115]
   },
-  "grey purple": {
+  "grey-purple": {
     "hex": "826d8c",
     "rgb": [130, 109, 140]
   },
-  "greyish blue": {
+  "greyish-blue": {
     "hex": "5e819d",
     "rgb": [94, 129, 157]
   },
-  "greyish brown": {
+  "greyish-brown": {
     "hex": "7a6a4f",
     "rgb": [122, 106, 79]
   },
-  "greyish green": {
+  "greyish-green": {
     "hex": "82a67d",
     "rgb": [130, 166, 125]
   },
-  "greyish pink": {
+  "greyish-pink": {
     "hex": "c88d94",
     "rgb": [200, 141, 148]
   },
-  "greyish purple": {
+  "greyish-purple": {
     "hex": "887191",
     "rgb": [136, 113, 145]
   },
-  "hospital green": {
+  "hospital-green": {
     "hex": "9be5aa",
     "rgb": [155, 229, 170]
   },
-  "hot pink": {
+  "hot-pink": {
     "hex": "ff028d",
     "rgb": [255, 2, 141]
   },
-  "hot purple": {
+  "hot-purple": {
     "hex": "cb00f5",
     "rgb": [203, 0, 245]
   },
-  "hunter green": {
+  "hunter-green": {
     "hex": "0b4008",
     "rgb": [11, 64, 8]
   },
-  "ice blue": {
+  "ice-blue": {
     "hex": "d7fffe",
     "rgb": [215, 255, 254]
   },
@@ -887,15 +887,15 @@
     "hex": "1fa774",
     "rgb": [31, 167, 116]
   },
-  "jade green": {
+  "jade-green": {
     "hex": "2baf6a",
     "rgb": [43, 175, 106]
   },
-  "jungle green": {
+  "jungle-green": {
     "hex": "048243",
     "rgb": [4, 130, 67]
   },
-  "kelly green": {
+  "kelly-green": {
     "hex": "02ab2e",
     "rgb": [2, 171, 46]
   },
@@ -903,7 +903,7 @@
     "hex": "aaa662",
     "rgb": [170, 166, 98]
   },
-  "khaki green": {
+  "khaki-green": {
     "hex": "728639",
     "rgb": [114, 134, 57]
   },
@@ -911,7 +911,7 @@
     "hex": "c79fef",
     "rgb": [199, 159, 239]
   },
-  "leaf green": {
+  "leaf-green": {
     "hex": "5ca904",
     "rgb": [92, 169, 4]
   },
@@ -919,15 +919,15 @@
     "hex": "fdff52",
     "rgb": [253, 255, 82]
   },
-  "lemon yellow": {
+  "lemon-yellow": {
     "hex": "fdff38",
     "rgb": [253, 255, 56]
   },
-  "light aqua": {
+  "light-aqua": {
     "hex": "8cffdb",
     "rgb": [140, 255, 219]
   },
-  "light blue": {
+  "light-blue": {
     "hex": "95d0fc",
     "rgb": [149, 208, 252]
   },
@@ -935,11 +935,11 @@
     "hex": "7efbb3",
     "rgb": [126, 251, 179]
   },
-  "light brown": {
+  "light-brown": {
     "hex": "ad8150",
     "rgb": [173, 129, 80]
   },
-  "light cyan": {
+  "light-cyan": {
     "hex": "acfffc",
     "rgb": [172, 255, 252]
   },
@@ -947,27 +947,27 @@
     "hex": "4f9153",
     "rgb": [79, 145, 83]
   },
-  "light green": {
+  "light-green": {
     "hex": "96f97b",
     "rgb": [150, 249, 123]
   },
-  "light grey": {
+  "light-grey": {
     "hex": "d8dcd6",
     "rgb": [216, 220, 214]
   },
-  "light indigo": {
+  "light-indigo": {
     "hex": "6d5acf",
     "rgb": [109, 90, 207]
   },
-  "light lavender": {
+  "light-lavender": {
     "hex": "dfc5fe",
     "rgb": [223, 197, 254]
   },
-  "light lilac": {
+  "light-lilac": {
     "hex": "edc8ff",
     "rgb": [237, 200, 255]
   },
-  "light lime": {
+  "light-lime": {
     "hex": "aefd6c",
     "rgb": [174, 253, 108]
   },
@@ -975,19 +975,19 @@
     "hex": "b9ff66",
     "rgb": [185, 255, 102]
   },
-  "light magenta": {
+  "light-magenta": {
     "hex": "fa5ff7",
     "rgb": [250, 95, 247]
   },
-  "light maroon": {
+  "light-maroon": {
     "hex": "a24857",
     "rgb": [162, 72, 87]
   },
-  "light mauve": {
+  "light-mauve": {
     "hex": "c292a1",
     "rgb": [194, 146, 161]
   },
-  "light navy": {
+  "light-navy": {
     "hex": "155084",
     "rgb": [21, 80, 132]
   },
@@ -995,7 +995,7 @@
     "hex": "2e5a88",
     "rgb": [46, 90, 136]
   },
-  "light olive": {
+  "light-olive": {
     "hex": "acbf69",
     "rgb": [172, 191, 105]
   },
@@ -1003,19 +1003,19 @@
     "hex": "a4be5c",
     "rgb": [164, 190, 92]
   },
-  "light orange": {
+  "light-orange": {
     "hex": "fdaa48",
     "rgb": [253, 170, 72]
   },
-  "light pink": {
+  "light-pink": {
     "hex": "ffd1df",
     "rgb": [255, 209, 223]
   },
-  "light purple": {
+  "light-purple": {
     "hex": "bf77f6",
     "rgb": [191, 119, 246]
   },
-  "light red": {
+  "light-red": {
     "hex": "ff474c",
     "rgb": [255, 71, 76]
   },
@@ -1027,39 +1027,39 @@
     "hex": "c6fcff",
     "rgb": [198, 252, 255]
   },
-  "light tan": {
+  "light-tan": {
     "hex": "fbeeac",
     "rgb": [251, 238, 172]
   },
-  "light teal": {
+  "light-teal": {
     "hex": "90e4c1",
     "rgb": [144, 228, 193]
   },
-  "light turquoise": {
+  "light-turquoise": {
     "hex": "7ef4cc",
     "rgb": [126, 244, 204]
   },
-  "light violet": {
+  "light-violet": {
     "hex": "d6b4fc",
     "rgb": [214, 180, 252]
   },
-  "light yellow": {
+  "light-yellow": {
     "hex": "fffe7a",
     "rgb": [255, 254, 122]
   },
-  "lighter green": {
+  "lighter-green": {
     "hex": "75fd63",
     "rgb": [117, 253, 99]
   },
-  "lighter purple": {
+  "lighter-purple": {
     "hex": "a55af4",
     "rgb": [165, 90, 244]
   },
-  "lightish blue": {
+  "lightish-blue": {
     "hex": "3d7afd",
     "rgb": [61, 122, 253]
   },
-  "lightish green": {
+  "lightish-green": {
     "hex": "61e160",
     "rgb": [97, 225, 96]
   },
@@ -1071,7 +1071,7 @@
     "hex": "aaff32",
     "rgb": [170, 255, 50]
   },
-  "lime green": {
+  "lime-green": {
     "hex": "89fe05",
     "rgb": [137, 254, 5]
   },
@@ -1095,7 +1095,7 @@
     "hex": "042e60",
     "rgb": [4, 46, 96]
   },
-  "marine blue": {
+  "marine-blue": {
     "hex": "01386a",
     "rgb": [1, 56, 106]
   },
@@ -1107,19 +1107,19 @@
     "hex": "ae7181",
     "rgb": [174, 113, 129]
   },
-  "medium blue": {
+  "medium-blue": {
     "hex": "2c6fbb",
     "rgb": [44, 111, 187]
   },
-  "medium brown": {
+  "medium-brown": {
     "hex": "7f5112",
     "rgb": [127, 81, 18]
   },
-  "medium green": {
+  "medium-green": {
     "hex": "39ad48",
     "rgb": [57, 173, 72]
   },
-  "medium purple": {
+  "medium-purple": {
     "hex": "9e43a2",
     "rgb": [158, 67, 162]
   },
@@ -1127,15 +1127,15 @@
     "hex": "ff7855",
     "rgb": [255, 120, 85]
   },
-  "mid blue": {
+  "mid-blue": {
     "hex": "276ab3",
     "rgb": [39, 106, 179]
   },
-  "midnight blue": {
+  "midnight-blue": {
     "hex": "020035",
     "rgb": [2, 0, 53]
   },
-  "military green": {
+  "military-green": {
     "hex": "667c3e",
     "rgb": [102, 124, 62]
   },
@@ -1143,11 +1143,11 @@
     "hex": "9ffeb0",
     "rgb": [159, 254, 176]
   },
-  "mint green": {
+  "mint-green": {
     "hex": "8fff9f",
     "rgb": [143, 255, 159]
   },
-  "minty green": {
+  "minty-green": {
     "hex": "0bf77d",
     "rgb": [11, 247, 125]
   },
@@ -1159,7 +1159,7 @@
     "hex": "769958",
     "rgb": [118, 153, 88]
   },
-  "moss green": {
+  "moss-green": {
     "hex": "658b38",
     "rgb": [101, 139, 56]
   },
@@ -1167,11 +1167,11 @@
     "hex": "735c12",
     "rgb": [115, 92, 18]
   },
-  "mud brown": {
+  "mud-brown": {
     "hex": "60460f",
     "rgb": [96, 70, 15]
   },
-  "muddy green": {
+  "muddy-green": {
     "hex": "657432",
     "rgb": [101, 116, 50]
   },
@@ -1183,15 +1183,15 @@
     "hex": "ceb301",
     "rgb": [206, 179, 1]
   },
-  "mustard green": {
+  "mustard-green": {
     "hex": "a8b504",
     "rgb": [168, 181, 4]
   },
-  "mustard yellow": {
+  "mustard-yellow": {
     "hex": "d2bd0a",
     "rgb": [210, 189, 10]
   },
-  "muted green": {
+  "muted-green": {
     "hex": "5fa052",
     "rgb": [95, 160, 82]
   },
@@ -1199,23 +1199,23 @@
     "hex": "01153e",
     "rgb": [1, 21, 62]
   },
-  "navy blue": {
+  "navy-blue": {
     "hex": "001146",
     "rgb": [0, 17, 70]
   },
-  "neon blue": {
+  "neon-blue": {
     "hex": "04d9ff",
     "rgb": [4, 217, 255]
   },
-  "neon green": {
+  "neon-green": {
     "hex": "0cff0c",
     "rgb": [12, 255, 12]
   },
-  "neon pink": {
+  "neon-pink": {
     "hex": "fe019a",
     "rgb": [254, 1, 154]
   },
-  "neon purple": {
+  "neon-purple": {
     "hex": "bc13fe",
     "rgb": [188, 19, 254]
   },
@@ -1223,11 +1223,11 @@
     "hex": "017b92",
     "rgb": [1, 123, 146]
   },
-  "ocean blue": {
+  "ocean-blue": {
     "hex": "03719c",
     "rgb": [3, 113, 156]
   },
-  "ocean green": {
+  "ocean-green": {
     "hex": "3d9973",
     "rgb": [61, 153, 115]
   },
@@ -1239,7 +1239,7 @@
     "hex": "c69c04",
     "rgb": [198, 156, 4]
   },
-  "off white": {
+  "off-white": {
     "hex": "ffffe4",
     "rgb": [255, 255, 228]
   },
@@ -1247,15 +1247,15 @@
     "hex": "6e750e",
     "rgb": [110, 117, 14]
   },
-  "olive brown": {
+  "olive-brown": {
     "hex": "645403",
     "rgb": [100, 84, 3]
   },
-  "olive drab": {
+  "olive-drab": {
     "hex": "6f7632",
     "rgb": [111, 118, 50]
   },
-  "olive green": {
+  "olive-green": {
     "hex": "677a04",
     "rgb": [103, 122, 4]
   },
@@ -1263,19 +1263,19 @@
     "hex": "f97306",
     "rgb": [249, 115, 6]
   },
-  "orange brown": {
+  "orange-brown": {
     "hex": "be6400",
     "rgb": [190, 100, 0]
   },
-  "orange red": {
+  "orange-red": {
     "hex": "fd411e",
     "rgb": [253, 65, 30]
   },
-  "orange yellow": {
+  "orange-yellow": {
     "hex": "ffad01",
     "rgb": [255, 173, 1]
   },
-  "orangey brown": {
+  "orangey-brown": {
     "hex": "b16002",
     "rgb": [177, 96, 2]
   },
@@ -1283,83 +1283,83 @@
     "hex": "c875c4",
     "rgb": [200, 117, 196]
   },
-  "pale blue": {
+  "pale-blue": {
     "hex": "d0fefe",
     "rgb": [208, 254, 254]
   },
-  "pale brown": {
+  "pale-brown": {
     "hex": "b1916e",
     "rgb": [177, 145, 110]
   },
-  "pale green": {
+  "pale-green": {
     "hex": "c7fdb5",
     "rgb": [199, 253, 181]
   },
-  "pale lavender": {
+  "pale-lavender": {
     "hex": "eecffe",
     "rgb": [238, 207, 254]
   },
-  "pale olive": {
+  "pale-olive": {
     "hex": "b9cc81",
     "rgb": [185, 204, 129]
   },
-  "pale orange": {
+  "pale-orange": {
     "hex": "ffa756",
     "rgb": [255, 167, 86]
   },
-  "pale pink": {
+  "pale-pink": {
     "hex": "ffcfdc",
     "rgb": [255, 207, 220]
   },
-  "pale purple": {
+  "pale-purple": {
     "hex": "b790d4",
     "rgb": [183, 144, 212]
   },
-  "pale red": {
+  "pale-red": {
     "hex": "d9544d",
     "rgb": [217, 84, 77]
   },
-  "pale teal": {
+  "pale-teal": {
     "hex": "82cbb2",
     "rgb": [130, 203, 178]
   },
-  "pale turquoise": {
+  "pale-turquoise": {
     "hex": "a5fbd5",
     "rgb": [165, 251, 213]
   },
-  "pale violet": {
+  "pale-violet": {
     "hex": "ceaefa",
     "rgb": [206, 174, 250]
   },
-  "pale yellow": {
+  "pale-yellow": {
     "hex": "ffff84",
     "rgb": [255, 255, 132]
   },
-  "pastel blue": {
+  "pastel-blue": {
     "hex": "a2bffe",
     "rgb": [162, 191, 254]
   },
-  "pastel green": {
+  "pastel-green": {
     "hex": "b0ff9d",
     "rgb": [176, 255, 157]
   },
-  "pastel pink": {
+  "pastel-pink": {
     "hex": "ffbacd",
     "rgb": [255, 186, 205]
   },
-  "pastel purple": {
+  "pastel-purple": {
     "hex": "caa0ff",
     "rgb": [202, 160, 255]
   },
-  "pastel yellow": {
+  "pastel-yellow": {
     "hex": "fffe71",
     "rgb": [255, 254, 113]
   },
-  "pea green": {
+  "pea-green": {
     "hex": "8eab12",
     "rgb": [142, 171, 18]
   },
-  "pea soup": {
+  "pea-soup": {
     "hex": "929901",
     "rgb": [146, 153, 1]
   },
@@ -1375,7 +1375,7 @@
     "hex": "8e82fe",
     "rgb": [142, 130, 254]
   },
-  "periwinkle blue": {
+  "periwinkle-blue": {
     "hex": "8f99fb",
     "rgb": [143, 153, 251]
   },
@@ -1383,7 +1383,7 @@
     "hex": "2b5d34",
     "rgb": [43, 93, 52]
   },
-  "pine green": {
+  "pine-green": {
     "hex": "0a481e",
     "rgb": [10, 72, 30]
   },
@@ -1391,11 +1391,11 @@
     "hex": "ff81c0",
     "rgb": [255, 129, 192]
   },
-  "pink purple": {
+  "pink-purple": {
     "hex": "db4bda",
     "rgb": [219, 75, 218]
   },
-  "pink red": {
+  "pink-red": {
     "hex": "f5054f",
     "rgb": [245, 5, 79]
   },
@@ -1403,23 +1403,23 @@
     "hex": "d46a7e",
     "rgb": [212, 106, 126]
   },
-  "pinkish brown": {
+  "pinkish-brown": {
     "hex": "b17261",
     "rgb": [177, 114, 97]
   },
-  "pinkish purple": {
+  "pinkish-purple": {
     "hex": "d648d7",
     "rgb": [214, 72, 215]
   },
-  "pinkish red": {
+  "pinkish-red": {
     "hex": "f10c45",
     "rgb": [241, 12, 69]
   },
-  "pinky purple": {
+  "pinky-purple": {
     "hex": "c94cbe",
     "rgb": [201, 76, 190]
   },
-  "pinky red": {
+  "pinky-red": {
     "hex": "fc2647",
     "rgb": [252, 38, 71]
   },
@@ -1435,11 +1435,11 @@
     "hex": "7f5e00",
     "rgb": [127, 94, 0]
   },
-  "powder blue": {
+  "powder-blue": {
     "hex": "b1d1fc",
     "rgb": [177, 209, 252]
   },
-  "prussian blue": {
+  "prussian-blue": {
     "hex": "004577",
     "rgb": [0, 69, 119]
   },
@@ -1447,7 +1447,7 @@
     "hex": "a57e52",
     "rgb": [165, 126, 82]
   },
-  "puke yellow": {
+  "puke-yellow": {
     "hex": "c2be0e",
     "rgb": [194, 190, 14]
   },
@@ -1455,7 +1455,7 @@
     "hex": "e17701",
     "rgb": [225, 119, 1]
   },
-  "pumpkin orange": {
+  "pumpkin-orange": {
     "hex": "fb7d07",
     "rgb": [251, 125, 7]
   },
@@ -1463,15 +1463,15 @@
     "hex": "7e1e9c",
     "rgb": [126, 30, 156]
   },
-  "purple blue": {
+  "purple-blue": {
     "hex": "632de9",
     "rgb": [99, 45, 233]
   },
-  "purple grey": {
+  "purple-grey": {
     "hex": "866f85",
     "rgb": [134, 111, 133]
   },
-  "purple pink": {
+  "purple-pink": {
     "hex": "e03fd8",
     "rgb": [224, 63, 216]
   },
@@ -1479,11 +1479,11 @@
     "hex": "98568d",
     "rgb": [152, 86, 141]
   },
-  "purpleish blue": {
+  "purpleish-blue": {
     "hex": "6140ef",
     "rgb": [97, 64, 239]
   },
-  "purpley blue": {
+  "purpley-blue": {
     "hex": "5f34e7",
     "rgb": [95, 52, 231]
   },
@@ -1491,19 +1491,19 @@
     "hex": "94568c",
     "rgb": [148, 86, 140]
   },
-  "purplish blue": {
+  "purplish-blue": {
     "hex": "601ef9",
     "rgb": [96, 30, 249]
   },
-  "purplish grey": {
+  "purplish-grey": {
     "hex": "7a687f",
     "rgb": [122, 104, 127]
   },
-  "purplish pink": {
+  "purplish-pink": {
     "hex": "ce5dae",
     "rgb": [206, 93, 174]
   },
-  "purply blue": {
+  "purply-blue": {
     "hex": "661aee",
     "rgb": [102, 26, 238]
   },
@@ -1515,23 +1515,23 @@
     "hex": "e50000",
     "rgb": [229, 0, 0]
   },
-  "red brown": {
+  "red-brown": {
     "hex": "8b2e16",
     "rgb": [139, 46, 22]
   },
-  "red orange": {
+  "red-orange": {
     "hex": "fd3c06",
     "rgb": [253, 60, 6]
   },
-  "red pink": {
+  "red-pink": {
     "hex": "fa2a55",
     "rgb": [250, 42, 85]
   },
-  "red purple": {
+  "red-purple": {
     "hex": "820747",
     "rgb": [130, 7, 71]
   },
-  "red violet": {
+  "red-violet": {
     "hex": "9e0168",
     "rgb": [158, 1, 104]
   },
@@ -1539,19 +1539,19 @@
     "hex": "c44240",
     "rgb": [196, 66, 64]
   },
-  "reddish brown": {
+  "reddish-brown": {
     "hex": "7f2b0a",
     "rgb": [127, 43, 10]
   },
-  "reddish orange": {
+  "reddish-orange": {
     "hex": "f8481c",
     "rgb": [248, 72, 28]
   },
-  "reddish pink": {
+  "reddish-pink": {
     "hex": "fe2c54",
     "rgb": [254, 44, 84]
   },
-  "reddish purple": {
+  "reddish-purple": {
     "hex": "910951",
     "rgb": [145, 9, 81]
   },
@@ -1571,15 +1571,15 @@
     "hex": "cf6275",
     "rgb": [207, 98, 117]
   },
-  "rose pink": {
+  "rose-pink": {
     "hex": "f7879a",
     "rgb": [247, 135, 154]
   },
-  "royal blue": {
+  "royal-blue": {
     "hex": "0504aa",
     "rgb": [5, 4, 170]
   },
-  "royal purple": {
+  "royal-purple": {
     "hex": "4b006e",
     "rgb": [75, 0, 110]
   },
@@ -1595,7 +1595,7 @@
     "hex": "87ae73",
     "rgb": [135, 174, 115]
   },
-  "sage green": {
+  "sage-green": {
     "hex": "88b378",
     "rgb": [136, 179, 120]
   },
@@ -1603,7 +1603,7 @@
     "hex": "ff796c",
     "rgb": [255, 121, 108]
   },
-  "salmon pink": {
+  "salmon-pink": {
     "hex": "fe7b7c",
     "rgb": [254, 123, 124]
   },
@@ -1619,11 +1619,11 @@
     "hex": "be0119",
     "rgb": [190, 1, 25]
   },
-  "sea blue": {
+  "sea-blue": {
     "hex": "047495",
     "rgb": [4, 116, 149]
   },
-  "sea green": {
+  "sea-green": {
     "hex": "53fca1",
     "rgb": [83, 252, 161]
   },
@@ -1631,7 +1631,7 @@
     "hex": "80f9ad",
     "rgb": [128, 249, 173]
   },
-  "seafoam green": {
+  "seafoam-green": {
     "hex": "7af9ab",
     "rgb": [122, 249, 171]
   },
@@ -1639,11 +1639,11 @@
     "hex": "985e2b",
     "rgb": [152, 94, 43]
   },
-  "shocking pink": {
+  "shocking-pink": {
     "hex": "fe02a2",
     "rgb": [254, 2, 162]
   },
-  "sickly green": {
+  "sickly-green": {
     "hex": "94b21c",
     "rgb": [148, 178, 28]
   },
@@ -1659,7 +1659,7 @@
     "hex": "82cafc",
     "rgb": [130, 202, 252]
   },
-  "sky blue": {
+  "sky-blue": {
     "hex": "75bbfd",
     "rgb": [117, 187, 253]
   },
@@ -1667,35 +1667,35 @@
     "hex": "516572",
     "rgb": [81, 101, 114]
   },
-  "slate blue": {
+  "slate-blue": {
     "hex": "5b7c99",
     "rgb": [91, 124, 153]
   },
-  "slate green": {
+  "slate-green": {
     "hex": "658d6d",
     "rgb": [101, 141, 109]
   },
-  "slate grey": {
+  "slate-grey": {
     "hex": "59656d",
     "rgb": [89, 101, 109]
   },
-  "snot green": {
+  "snot-green": {
     "hex": "9dc100",
     "rgb": [157, 193, 0]
   },
-  "soft blue": {
+  "soft-blue": {
     "hex": "6488ea",
     "rgb": [100, 136, 234]
   },
-  "soft green": {
+  "soft-green": {
     "hex": "6fc276",
     "rgb": [111, 194, 118]
   },
-  "soft pink": {
+  "soft-pink": {
     "hex": "fdb0c0",
     "rgb": [253, 176, 192]
   },
-  "spring green": {
+  "spring-green": {
     "hex": "a9f971",
     "rgb": [169, 249, 113]
   },
@@ -1703,11 +1703,11 @@
     "hex": "738595",
     "rgb": [115, 133, 149]
   },
-  "steel blue": {
+  "steel-blue": {
     "hex": "5a7d9a",
     "rgb": [90, 125, 154]
   },
-  "steel grey": {
+  "steel-grey": {
     "hex": "6f828a",
     "rgb": [111, 130, 138]
   },
@@ -1715,7 +1715,7 @@
     "hex": "fb2943",
     "rgb": [251, 41, 67]
   },
-  "swamp green": {
+  "swamp-green": {
     "hex": "748500",
     "rgb": [116, 133, 0]
   },
@@ -1735,15 +1735,15 @@
     "hex": "029386",
     "rgb": [2, 147, 134]
   },
-  "teal blue": {
+  "teal-blue": {
     "hex": "01889f",
     "rgb": [1, 136, 159]
   },
-  "teal green": {
+  "teal-green": {
     "hex": "25a36f",
     "rgb": [37, 163, 111]
   },
-  "terra cotta": {
+  "terra-cotta": {
     "hex": "c9643b",
     "rgb": [201, 100, 59]
   },
@@ -1751,7 +1751,7 @@
     "hex": "ca6641",
     "rgb": [202, 102, 65]
   },
-  "true blue": {
+  "true-blue": {
     "hex": "010fcc",
     "rgb": [1, 15, 204]
   },
@@ -1759,7 +1759,7 @@
     "hex": "06c2ac",
     "rgb": [6, 194, 172]
   },
-  "ugly green": {
+  "ugly-green": {
     "hex": "7a9703",
     "rgb": [122, 151, 3]
   },
@@ -1803,7 +1803,7 @@
     "hex": "9a0eea",
     "rgb": [154, 14, 234]
   },
-  "violet blue": {
+  "violet-blue": {
     "hex": "510ac9",
     "rgb": [81, 10, 201]
   },
@@ -1823,7 +1823,7 @@
     "hex": "80013f",
     "rgb": [128, 1, 63]
   },
-  "wine red": {
+  "wine-red": {
     "hex": "7b0323",
     "rgb": [123, 3, 35]
   },
@@ -1831,19 +1831,19 @@
     "hex": "ffff14",
     "rgb": [255, 255, 20]
   },
-  "yellow brown": {
+  "yellow-brown": {
     "hex": "b79400",
     "rgb": [183, 148, 0]
   },
-  "yellow green": {
+  "yellow-green": {
     "hex": "c0fb2d",
     "rgb": [192, 251, 45]
   },
-  "yellow ochre": {
+  "yellow-ochre": {
     "hex": "cb9d06",
     "rgb": [203, 157, 6]
   },
-  "yellow orange": {
+  "yellow-orange": {
     "hex": "fcb001",
     "rgb": [252, 176, 1]
   },
@@ -1851,15 +1851,15 @@
     "hex": "faee66",
     "rgb": [250, 238, 102]
   },
-  "yellowish brown": {
+  "yellowish-brown": {
     "hex": "9b7a01",
     "rgb": [155, 122, 1]
   },
-  "yellowish green": {
+  "yellowish-green": {
     "hex": "b0dd16",
     "rgb": [176, 221, 22]
   },
-  "yellowy green": {
+  "yellowy-green": {
     "hex": "bff128",
     "rgb": [191, 241, 40]
   }
