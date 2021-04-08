@@ -171,11 +171,11 @@
     "hex": "c760ff",
     "rgb": [199, 96, 255]
   },
-  "bright light blue": {
+  "bright-light-blue": {
     "hex": "26f7fd",
     "rgb": [38, 247, 253]
   },
-  "bright lime green": {
+  "bright-lime-green": {
     "hex": "65fe08",
     "rgb": [101, 254, 8]
   },
@@ -199,7 +199,7 @@
     "hex": "ff000d",
     "rgb": [255, 0, 13]
   },
-  "bright sky blue": {
+  "bright-sky-blue": {
     "hex": "02ccfe",
     "rgb": [2, 204, 254]
   },
@@ -219,7 +219,7 @@
     "hex": "fffd01",
     "rgb": [255, 253, 1]
   },
-  "british racing green": {
+  "british-racing-green": {
     "hex": "05480d",
     "rgb": [5, 72, 13]
   },
@@ -411,7 +411,7 @@
     "hex": "00035b",
     "rgb": [0, 3, 91]
   },
-  "dark blue green": {
+  "dark-blue-green": {
     "hex": "005249",
     "rgb": [0, 82, 73]
   },
@@ -423,7 +423,7 @@
     "hex": "0a888a",
     "rgb": [10, 136, 138]
   },
-  "dark forest green": {
+  "dark-forest-green": {
     "hex": "002d04",
     "rgb": [0, 45, 4]
   },
@@ -455,7 +455,7 @@
     "hex": "84b701",
     "rgb": [132, 183, 1]
   },
-  "dark lime green": {
+  "dark-lime-green": {
     "hex": "7ebd01",
     "rgb": [126, 189, 1]
   },
@@ -479,7 +479,7 @@
     "hex": "373e02",
     "rgb": [55, 62, 2]
   },
-  "dark olive green": {
+  "dark-olive-green": {
     "hex": "3c4d03",
     "rgb": [60, 77, 3]
   },
@@ -515,11 +515,11 @@
     "hex": "c85a53",
     "rgb": [200, 90, 83]
   },
-  "dark sea green": {
+  "dark-sea-green": {
     "hex": "11875d",
     "rgb": [17, 135, 93]
   },
-  "dark sky blue": {
+  "dark-sky-blue": {
     "hex": "448ee4",
     "rgb": [68, 142, 228]
   },
@@ -571,7 +571,7 @@
     "hex": "9a0200",
     "rgb": [154, 2, 0]
   },
-  "deep sky blue": {
+  "deep-sky-blue": {
     "hex": "0d75f8",
     "rgb": [13, 117, 248]
   },
@@ -723,7 +723,7 @@
     "hex": "d3494e",
     "rgb": [211, 73, 78]
   },
-  "fire engine red": {
+  "fire-engine-red": {
     "hex": "fe0002",
     "rgb": [254, 0, 2]
   },
@@ -931,7 +931,7 @@
     "hex": "95d0fc",
     "rgb": [149, 208, 252]
   },
-  "light blue green": {
+  "light-blue-green": {
     "hex": "7efbb3",
     "rgb": [126, 251, 179]
   },
@@ -943,7 +943,7 @@
     "hex": "acfffc",
     "rgb": [172, 255, 252]
   },
-  "light forest green": {
+  "light-forest-green": {
     "hex": "4f9153",
     "rgb": [79, 145, 83]
   },
@@ -971,7 +971,7 @@
     "hex": "aefd6c",
     "rgb": [174, 253, 108]
   },
-  "light lime green": {
+  "light-lime-green": {
     "hex": "b9ff66",
     "rgb": [185, 255, 102]
   },
@@ -991,7 +991,7 @@
     "hex": "155084",
     "rgb": [21, 80, 132]
   },
-  "light navy blue": {
+  "light-navy-blue": {
     "hex": "2e5a88",
     "rgb": [46, 90, 136]
   },
@@ -999,7 +999,7 @@
     "hex": "acbf69",
     "rgb": [172, 191, 105]
   },
-  "light olive green": {
+  "light-olive-green": {
     "hex": "a4be5c",
     "rgb": [164, 190, 92]
   },
@@ -1019,11 +1019,11 @@
     "hex": "ff474c",
     "rgb": [255, 71, 76]
   },
-  "light sea green": {
+  "light-sea-green": {
     "hex": "98f6b0",
     "rgb": [152, 246, 176]
   },
-  "light sky blue": {
+  "light-sky-blue": {
     "hex": "c6fcff",
     "rgb": [198, 252, 255]
   },
@@ -1363,7 +1363,7 @@
     "hex": "929901",
     "rgb": [146, 153, 1]
   },
-  "pea soup green": {
+  "pea-soup-green": {
     "hex": "94a617",
     "rgb": [148, 166, 23]
   },
@@ -1555,7 +1555,7 @@
     "hex": "910951",
     "rgb": [145, 9, 81]
   },
-  "robin egg blue": {
+  "robin-egg-blue": {
     "hex": "8af1fe",
     "rgb": [138, 241, 254]
   },
@@ -1775,27 +1775,27 @@
     "hex": "f4320c",
     "rgb": [244, 50, 12]
   },
-  "very dark blue": {
+  "very-dark-blue": {
     "hex": "000133",
     "rgb": [0, 1, 51]
   },
-  "very dark green": {
+  "very-dark-green": {
     "hex": "062e03",
     "rgb": [6, 46, 3]
   },
-  "very dark purple": {
+  "very-dark-purple": {
     "hex": "2a0134",
     "rgb": [42, 1, 52]
   },
-  "very light blue": {
+  "very-light-blue": {
     "hex": "d5ffff",
     "rgb": [213, 255, 255]
   },
-  "very light green": {
+  "very-light-green": {
     "hex": "d1ffbd",
     "rgb": [209, 255, 189]
   },
-  "very light purple": {
+  "very-light-purple": {
     "hex": "f6cefc",
     "rgb": [246, 206, 252]
   },
